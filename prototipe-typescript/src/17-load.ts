@@ -24,5 +24,5 @@ const rta= _.groupBy(data,(item)=>item.role);
 
 console.log(rta);
 
-
+`const rta = 1 + '1';`
 
