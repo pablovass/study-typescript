@@ -14,7 +14,3 @@ export const calcularStock =():number =>{
 }
 
 
-function login1(data: (email: string, password: string)) { console.log(data.email, data.password); }
-
-
-function login(data: {email: string, password: string}) { console.log(data.email, data.password); }
